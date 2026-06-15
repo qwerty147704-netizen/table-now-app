@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "447164902457",
+    "project_id": "tablenow-dcfc4",
+    "storage_bucket": "tablenow-dcfc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447164902457:android:d8e57d21af00dc660f71e8",
+        "android_client_info": {
+          "package_name": "com.team01.tablenowapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447164902457-v2msksbaov9lmgnqklji53h40c25ho60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team01.tablenowapp",
+            "certificate_hash": "886658878eda9e2becbf06f5051a6c5ef72d86d8"
+          }
+        },
+        {
+          "client_id": "447164902457-anlngk8m69k69cr4nq27nrn49tbcfai9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFY0It19yVcECapeFXLDT79kTQqHfLPSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447164902457-anlngk8m69k69cr4nq27nrn49tbcfai9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "447164902457-di3nm0uqmpfbkvkkcpft4tkg0qlm1qs1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.team01.tablenowapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
